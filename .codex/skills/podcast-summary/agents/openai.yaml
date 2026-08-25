@@ -1,0 +1,3 @@
+interface:
+  display_name: "Podcast Summary"
+  short_description: "Summarize a podcast transcript into an Obsidian note"
